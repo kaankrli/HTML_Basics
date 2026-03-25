@@ -2,7 +2,7 @@
 This repository shows the HTML Basics
 
 
-🏗️ Core HTML Tags
+<b>🏗️ Core HTML Tags</b>
 
 <html>
 The root element of an HTML page. All other elements (except for the <!DOCTYPE> declaration) must be descendants of this tag. It wraps the entire content of the document.
