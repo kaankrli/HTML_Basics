@@ -39,6 +39,7 @@ H1, H2, H3, H4, H5 H6: From Largest to smallest heading tags
 
 P: Paragraph tag
 BR: Line break tag
+HR: Thematic line divider tag
 
 ------------------
 Lİ: list tag
