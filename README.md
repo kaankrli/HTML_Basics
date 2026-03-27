@@ -45,3 +45,6 @@ HR: Thematic line divider tag
 Lİ: list tag
 OL: ordered list tag
 UL: unordered list tag
+
+----------------------
+A: Attribute tag
