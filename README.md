@@ -55,3 +55,7 @@ TABLE: Table tag
 TR: Table Row
 TD: Table Data
 TH: Table Headings
+
+---------------
+SPAN: Inline Container
+DIV: A generic container used to define a division or section in a web page
