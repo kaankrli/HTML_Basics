@@ -59,3 +59,11 @@ TH: Table Headings
 ---------------
 SPAN: Inline Container
 DIV: A generic container used to define a division or section in a web page
+
+--------------
+HEADER: Used to contain the header content of a site.
+FOOTER: Contains the footer content of a site.
+NAV: Contains the navigation menu, or other navigation functionality for the page.
+ARTICLE: Contains a standalone piece of content that would make sense if syndicated as an RSS item, for example a news item.
+SECTION: Used to either group different articles into different purposes or subjects, or to define the different sections of a single article.
+ASIDE: Defines a block of content that is related to the main content around it, but not central to the flow of it.
