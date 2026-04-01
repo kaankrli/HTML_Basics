@@ -86,3 +86,7 @@ POST Method: Secures the info and doesn't show anything
 
 ----------
 SCRIPT: This tag is used to embed a client-side script (JavaScript).
+
+---------
+
+NAV: Defines navigation links
