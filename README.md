@@ -77,3 +77,6 @@ Input types: Text, email, url, date, radio...
 GET Method: Shows input info into browser search bar
 
 POST Method: Secures the info and doesn't show anything
+
+----------
+SCRIPT: This tag is used to embed a client-side script (JavaScript).
