@@ -99,3 +99,5 @@ NAV: Defines navigation links
 ---------
 
 MAİN: Specifies the main content of a document
+
+SECTION: Defines a section in the document
